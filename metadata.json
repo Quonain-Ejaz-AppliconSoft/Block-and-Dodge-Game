@@ -1,0 +1,5 @@
+{
+  "name": "Block Dodger",
+  "description": "A high-paced arcade survival game where you dodge falling blocks. Features increasing difficulty, smooth canvas rendering, and keyboard controls.",
+  "requestFramePermissions": []
+}
